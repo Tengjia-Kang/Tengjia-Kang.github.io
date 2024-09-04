@@ -1,7 +1,18 @@
-I'm a third year undergraduate student from [College of Computer Science and Technology](https://it.ouc.edu.cn/main.htm), [Ocean University of China](https://www.ouc.edu.cn/main.htm). My research interest includes computer graphics, machine learning, and artificial intelligence security.
+## Biography
+I'm a third year master student from [Department of Computer Science and Technology](https://it.ouc.edu.cn/main.htm), [Ocean University of China](https://www.ouc.edu.cn/main.htm), supervised by [Dr. Jiaran Zhou](https://jiaranzhou.github.io/). My research interest includes Computer Graphics and Artificial Intelligence Security.
 
-I am very fortunate to be advised by [Dr. Jiaran Zhou](https://jiaranzhou.github.io/) from [College of Computer Science and Technology](https://it.ouc.edu.cn/main.htm), Ocean University of China and [Dr. Yuezun Li](https://yuezunli.github.io/) from [College of Computer Science and Technology](https://it.ouc.edu.cn/main.htm), Ocean University of China.
+## News
+- 2024.07: One paper was accepted to Pacific Graphics 2024.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+## Publications
+- **TPAM: Transferable Perceptual-constrained Adversarial Meshes**
+
+  <u>Tengjia Kang</u>, Yuezun Li, Jiaran Zhou, Shiqing Xin, Junyu Dong, Changhe Tu.
+
+  Pacific Conference on Computer Graphics and Applications(PG), 2024.
+
+
+
+
 
 [Email](kangtengjia@stu.ouc.edu.cn) / [Github](https://github.com/Tengjia-Kang) / [Wechat](../images/wechat.jpg)
