@@ -19,5 +19,5 @@ I'm a third year master student from [Department of Computer Science and Technol
 
   Pacific Conference on Computer Graphics and Applications(PG), 2024.
   
-  [<a href="https://tengjia-kang-research.oss-cn-beijing.aliyuncs.com/TPAM/TPAM.pdf" style="text-decoration: none; color: #c16f00;font-size: 15px">Paper</a>] [<a href="https://tengjia-kang-research.oss-cn-beijing.aliyuncs.com/TPAM/scholar.bib" style="text-decoration: none; color: #c16f00;font-size: 15px">BibTex</a>] [<a href="https://github.com/Tengjia-Kang/TPAM.git" style="text-decoration: none; color: #c16f00;font-size: 15px">Code</a>]
+  [<a href="https://tengjia-kang-research.oss-cn-beijing.aliyuncs.com/TPAM/TPAM.pdf" style="text-decoration: none; color: #c16f00;font-size: 20px">Paper</a>] [<a href="https://tengjia-kang-research.oss-cn-beijing.aliyuncs.com/TPAM/scholar.bib" style="text-decoration: none; color: #c16f00;font-size: 20px">BibTex</a>] [<a href="https://github.com/Tengjia-Kang/TPAM.git" style="text-decoration: none; color: #c16f00;font-size: 20px">Code</a>]
 
