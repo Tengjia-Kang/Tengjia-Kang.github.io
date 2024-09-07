@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ## Biography
 I'm a third year master student from [Department of Computer Science and Technology](https://it.ouc.edu.cn/main.htm), [Ocean University of China](https://www.ouc.edu.cn/main.htm), supervised by [Dr. Jiaran Zhou](https://jiaranzhou.github.io/). My research interest includes Computer Graphics and Artificial Intelligence Security.
 
