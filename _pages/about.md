@@ -10,9 +10,4 @@ I'm a third year master student from [Department of Computer Science and Technol
   <u>Tengjia Kang</u>, Yuezun Li, Jiaran Zhou, Shiqing Xin, Junyu Dong, Changhe Tu.
 
   Pacific Conference on Computer Graphics and Applications(PG), 2024.
-
-
-
-
-
-[Email](kangtengjia@stu.ouc.edu.cn) / [Github](https://github.com/Tengjia-Kang) / [Wechat](../images/wechat.jpg)
+<!-- [Email](kangtengjia@stu.ouc.edu.cn) / [Github](https://github.com/Tengjia-Kang) / [Wechat](../images/wechat.jpg) -->
