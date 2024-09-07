@@ -13,7 +13,7 @@ I'm a third year master student from [Department of Computer Science and Technol
 - 2024.07: One paper was accepted to Pacific Graphics 2024.
 
 ## Publications
-- **TPAM: Transferable Perceptual-constrained Adversarial Meshes**
+- **TPAM: Transferable Perceptual-constrained Adversarial Meshes.**
 
   <u>Tengjia Kang</u>, Yuezun Li, Jiaran Zhou, Shiqing Xin, Junyu Dong and Changhe Tu.
 
