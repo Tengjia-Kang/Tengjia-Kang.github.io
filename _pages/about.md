@@ -10,6 +10,7 @@ redirect_from:
 I'm a third year master student from [Department of Computer Science and Technology](https://it.ouc.edu.cn/main.htm), [Ocean University of China](https://www.ouc.edu.cn/main.htm), supervised by [Dr. Jiaran Zhou](https://jiaranzhou.github.io/). My research interest includes Computer Graphics and Artificial Intelligence Security.
 
 ## News
+- 2024.11: I am admitted to the Ph.D program at Harbin Institute of Technology(HIT) majoring in Software Engineering.
 - 2024.07: One paper was accepted to Pacific Graphics 2024.
 
 ## Publications
